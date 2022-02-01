@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Moony",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
